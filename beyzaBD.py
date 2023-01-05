@@ -5,8 +5,8 @@ import socket
 import time
 import pyttsx3
 
-ip = "10.192.95.53"  # "192.168.1.149"  kendi wifimin ip
-port = 8081  # portum
+ip = "77.444.11.55"  # kendi ip bilginizi girin
+port = 8081  # kendi portunuzu girin
 
 
 class Soket_baglanti():
